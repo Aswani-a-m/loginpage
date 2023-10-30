@@ -1,0 +1,22 @@
+.div1{
+    width: 30%;
+    height: 400px;
+    margin: 55px;
+    padding: 20px;
+    float: left;
+    background-color: white;
+}
+
+
+.div2{
+    width: 50%;
+    height: 400px;
+    margin: 55px;
+    padding: 15px;
+    float: right;
+    background-color: cadetblue;
+}
+
+.div3{
+    background-color: cadetblue;
+}

@@ -1,0 +1,7 @@
+div{
+    width: 200px;
+    height: 80px;
+    margin: auto;
+   /* transform:skewY(10deg);*/
+    background-color: blueviolet;
+}

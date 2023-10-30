@@ -1,0 +1,22 @@
+div{
+    /*color: black;
+   outline-style: double;
+    outline-width: 10px;
+    outline-color: chocolate;
+    outline-offset: 9px;
+    background-color: yellow;*/
+   /* width: 50%;
+    height: 100px;
+    background-position: left;
+    background-image: url(download.png);
+    
+    width: 50%;
+    height: 100px;
+    background-repeat: no-repeat;
+    margin: 20px;
+    padding: 20px;*/
+    text-align: left;
+    text-decoration: underline orange 4px;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 13px teal;
+}

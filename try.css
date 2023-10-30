@@ -1,0 +1,32 @@
+/*div{
+    background-color: green;
+    width: 30px;
+    height: 80px;
+    position: absolute;
+    left: 50px;
+    top: 20px;
+}*/
+/*div{
+    background-color: yellowgreen;
+    width: 30px;
+    height: 60px;
+    position: fixed;
+   top: 30px;
+    left: 50px;
+}*/
+/*div{
+    background-color: red;
+    width: 320px;
+    height: 40px;
+    position: sticky;
+
+}*/
+div{
+    background-color: aquamarine;
+    width: 300px;
+    height: 50px;
+    /*box-shadow: 10px 10px 10px crimson;*/}
+      p{
+    text-shadow: 3px 3px 5px rebeccapurple;
+}
+
